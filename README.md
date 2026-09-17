@@ -128,7 +128,7 @@ image_paths = ['cat1.jpg', 'cat2.jpg', 'dog1.jpg', 'dog2.jpg', 'test_mix.jpg']
 # ... (use the multi‑plot code from the answer)
 ```
 
-Example output (saved as `pred_demo.png`):
+Example output (saved as `pred.png`):
 
 ![5‑image prediction demo](pred.png)
 
